@@ -8,7 +8,7 @@ I'm a Software Engineer, Front-end Developer who currently works at [Snapnet Lim
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a graduate at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, and Reactjs.
+- 🌱 I’m still a student of JavaScript, Typescript, PHP and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer(Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1AKo_IlQrrVWRwzagzTTw5vzDUsUOp9VF/view?usp=sharing) and contact me by emailing mailtobmlasisi@gmail.com.
