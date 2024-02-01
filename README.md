@@ -11,7 +11,7 @@ A Front-end JavaScript/TypeScript(React) engineer. I'm passionate about Informat
 - 🌱 I’m still a student of JavaScript, Typescript, PHP and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer(Junior level).
-- 📫 You can [view my resume]([https://drive.google.com/file/d/1AKo_IlQrrVWRwzagzTTw5vzDUsUOp9VF/view?usp=sharing](https://drive.google.com/file/d/1jJvnlDmNBSRtXewzZ07LgMMjfSCu-TzG/view?usp=drive_link)) and contact me by emailing mailtobmlasisi@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1jJvnlDmNBSRtXewzZ07LgMMjfSCu-TzG/view?usp=drive_link) 
 
 ---
 
