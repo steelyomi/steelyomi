@@ -14,5 +14,3 @@ A Front-end JavaScript/TypeScript(React) engineer. I'm passionate about Informat
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=steelyomi&show_icons=true&include_all_commits=true&hide_border=true" alt="Abayomi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steelyomi&langs_count=8&layout=compact&hide_border=true" alt="Abayomi's GitHub stats" /> |
-| ------------- | ------------- |
