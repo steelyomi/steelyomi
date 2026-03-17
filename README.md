@@ -1,4 +1,4 @@
-# Hi there, I'm Ibrahim 👋
+# Hi there, I'm Abayomi 👋
 
 **Frontend Engineer | React & Next.js Specialist | AI-Augmented Developer**
 
